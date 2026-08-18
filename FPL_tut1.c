@@ -1,4 +1,4 @@
-//Design a C program that calculates elements in an array.
+//Design a C program that calculates elements in an array
 #include <stdio.h>
 
 int main() {
